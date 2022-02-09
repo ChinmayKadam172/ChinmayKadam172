@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **A lot!!**
 
-- 💬 Ask me about **How to centre a <div>**
+- 💬 Ask me about **How to centre a div**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
