@@ -16,16 +16,16 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChinmayKadam172&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chinmaykadam172&label=Profile%20views&color=0e75b6&style=flat" alt="chinmaykadam172" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chinmaykadam172&label=Profile%20views&color=0e75b6&style=flat&theme=radical" alt="chinmaykadam172" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chinmaykadam172" alt="chinmaykadam172" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chinmaykadam172&theme=radical" alt="chinmaykadam172" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chinmaykadam172&show_icons=true&locale=en&layout=compact" alt="chinmaykadam172" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chinmaykadam172&show_icons=true&locale=en&layout=compact&theme=radical" alt="chinmaykadam172" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chinmaykadam172&show_icons=true&locale=en" alt="chinmaykadam172" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chinmaykadam172&show_icons=true&locale=en&theme=radical" alt="chinmaykadam172" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chinmaykadam172&" alt="chinmaykadam172" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chinmaykadam172&theme=radical" alt="chinmaykadam172" /></p>
