@@ -5,6 +5,8 @@
 
 - 💬 Ask me about **How to centre a div**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chinmaykadam172&label=Profile%20views&color=0e75b6&style=flat&theme=radical" alt="chinmaykadam172" /> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
@@ -15,8 +17,6 @@
 ![Chinmays's github stats](https://github-readme-stats.vercel.app/api?username=ChinmayKadam172&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChinmayKadam172&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chinmaykadam172&label=Profile%20views&color=0e75b6&style=flat&theme=radical" alt="chinmaykadam172" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chinmaykadam172&theme=radical" alt="chinmaykadam172" /></a> </p>
 
