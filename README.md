@@ -1,10 +1,10 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Chinmay Kadam</h1>
 <h3 align="left">Learning..</h3>
-
+<img align="right" src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif">
 - 🌱 I’m currently learning **A lot!!**
 
 - 💬 Ask me about **How to centre a div**
-<img align="left" src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chinmaykadam172&label=Profile%20views&color=0e75b6&style=flat&theme=radical" alt="chinmaykadam172" /> </p>
 
 
