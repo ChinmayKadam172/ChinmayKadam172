@@ -17,7 +17,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChinmayKadam172&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chinmaykadam172&theme=radical&column=2" alt="chinmaykadam172" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chinmaykadam172&theme=radical&row="1" alt="chinmaykadam172" /></a> </p>
 
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chinmaykadam172&show_icons=true&locale=en&theme=radical" alt="chinmaykadam172" /></p>
