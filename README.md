@@ -1,5 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Chinmay Kadam</h1>
 ![](https://github.com/ChinmayKadam172/ChinmayKadam172/blob/output/github-contribution-grid-snake.gif)
+<img align="right" src="https://github.com/ChinmayKadam172/ChinmayKadam172/blob/output/github-contribution-grid-snake.gif">
 <h3 align="left">Learning..</h3>
 <img align="right" src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif">
 - 🌱 I’m currently learning **A lot!!**
