@@ -2,7 +2,7 @@
 <img src="https://github.com/ChinmayKadam172/ChinmayKadam172/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
 <h3 align="left">Learning..</h3>
 <img align="right" src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif">
-- 🌱 I’m currently learning **A lot!!**
+- 🌱 I’m currently learning <b>A lot</b>
 
 - 💬 Ask me about **How to centre a div**
 
